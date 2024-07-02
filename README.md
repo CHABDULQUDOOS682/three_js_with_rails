@@ -5,20 +5,16 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version => ruby "3.1.2"
 
-* System dependencies
+* System dependencies => System should be capable to run Ruby on Rails app. 
 
-* Configuration
+* Configuration => Its easy to config project you just need to clone this app and after that follow these steps.
 
-* Database creation
+* Database creation => rails db:create & rails db:migrate
 
-* Database initialization
+* How to run the app => run " rails server" in your terminal and open your web browser and use this URL "localhost:3000".
 
-* How to run the test suite
+* TaDaaaa... Your THREE.JS integrated with Ruby on Rails is running......
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+HAPPY CODING.....
